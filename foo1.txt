@@ -1,19 +1,5 @@
-<<<<<<< HEAD
-sdfsdfs1117
-=======
-ddds
-brach1 test
->>>>>>> ca2d46e274c705982dbb6e74c7a6c1e121548a0f
-<<<<<<< HEAD
-
-实得分实得分
-<<<<<<< HEAD
-vvvvvvvvvvv
-=======
->>>>>>> parent of 0161c35... 淇敼22222
-=======
-vvvvvvvvvvv
->>>>>>> 31f97ab0c51c5438e16fcf00a5558cb22ca00210
-
-
 6666666666
+
+
+
+777777777+++++++
