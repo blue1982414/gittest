@@ -7,6 +7,10 @@ brach1 test
 <<<<<<< HEAD
 
 实得分实得分
+<<<<<<< HEAD
 vvvvvvvvvvv
 =======
 >>>>>>> parent of 0161c35... 淇敼22222
+=======
+vvvvvvvvvvv
+>>>>>>> 31f97ab0c51c5438e16fcf00a5558cb22ca00210
